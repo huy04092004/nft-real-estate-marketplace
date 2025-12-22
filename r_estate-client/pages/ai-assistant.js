@@ -113,7 +113,7 @@ const AIAssistant = () => {
                         { role: "user", content: userMsg }
                     ]
                 },
-                { headers: { "Authorization": `Bearer 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` } }
+                { headers: { "Authorization": `Bearer ${process.env.NEXT_PUBLIC_GROQ_API_KEY}` } }
             );
             
             setChatHistory(prev => [...prev, { role: "ai", text: response.data.choices[0].message.content }]);
