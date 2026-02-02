@@ -14,12 +14,13 @@ The platform integrates smart contracts with a modern web interface, enabling se
 - AI assistant for property suggestions (basic)
 
 ## Tech Stack
-- Frontend: Next.js, React
-- Blockchain: Solidity, Ethereum
-- Smart Contracts: Hardhat
-- Storage: IPFS
-- Wallet: MetaMask
-- Backend / Utils: Node.js
+- JavaScript (Node.js)
+- MongoDB
+- Next.js, React
+- RESTful API
+- Solidity, Ethereum (Blockchain)
+- Hardhat, MetaMask, IPFS
+
 
 ## Demo
 Full UI screenshots:  
