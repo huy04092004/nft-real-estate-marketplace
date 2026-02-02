@@ -23,7 +23,7 @@ The platform integrates smart contracts with a modern web interface, enabling se
 
 ## Demo
 Full UI screenshots:  
-https://github.com/huy04092004/your-repo-name/tree/main/docs
+https://github.com/huy04092004/internal-chat-file-sharing/tree/main/docs
 
 ## Project Structure
 ```text
@@ -33,3 +33,19 @@ https://github.com/huy04092004/your-repo-name/tree/main/docs
 ├── util/              // IPFS & blockchain utilities
 ├── public/            // Static assets
 └── styles/            // CSS modules
+```
+
+## How to Run Locally
+
+### Requirements
+- Node.js 16+
+- MetaMask browser extension
+- Hardhat
+
+### Steps
+```bash
+git clone https://github.com/huy04092004/your-repo-name.git
+cd your-repo-name
+npm install
+npm run dev
+
