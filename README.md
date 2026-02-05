@@ -45,8 +45,8 @@ https://github.com/huy04092004/internal-chat-file-sharing/tree/main/docs
 
 ### Steps
 ```bash
-git clone https://github.com/huy04092004/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/huy04092004/nft-real-estate-marketplace.git
+cd r_estate-client
 npm install
 npm run dev
 
